@@ -109,7 +109,7 @@
 
 ### 2026.07.15 ifast重大更新：开始支持扫码国内支付宝付款！    
 这意味着如果美国券商的钱想回来，又多了一条渠道：即不用走传统链路，直接国内扫码消费掉。    
-通过<a href="https://www.ifastgb.com/en/tellafriend/yanzhongy2531" target="_blank">我的ifast邀请链接</a> 注册，可以拿到5英镑。
+通过<a href="https://www.ifastgb.com/en/tellafriend/yanzhongy2531" target="_blank">我的ifast邀请链接</a> 注册，可以拿到官方5英镑奖励。
 
 
 ## 三.资金进出
